@@ -1,0 +1,15 @@
+E:\HW_seminar9\Work_task_HW\obj\Debug\net6.0\Work_task_HW.csproj.AssemblyReference.cache
+E:\HW_seminar9\Work_task_HW\obj\Debug\net6.0\Work_task_HW.GeneratedMSBuildEditorConfig.editorconfig
+E:\HW_seminar9\Work_task_HW\obj\Debug\net6.0\Work_task_HW.AssemblyInfoInputs.cache
+E:\HW_seminar9\Work_task_HW\obj\Debug\net6.0\Work_task_HW.AssemblyInfo.cs
+E:\HW_seminar9\Work_task_HW\obj\Debug\net6.0\Work_task_HW.csproj.CoreCompileInputs.cache
+E:\HW_seminar9\Work_task_HW\bin\Debug\net6.0\Work_task_HW.exe
+E:\HW_seminar9\Work_task_HW\bin\Debug\net6.0\Work_task_HW.deps.json
+E:\HW_seminar9\Work_task_HW\bin\Debug\net6.0\Work_task_HW.runtimeconfig.json
+E:\HW_seminar9\Work_task_HW\bin\Debug\net6.0\Work_task_HW.dll
+E:\HW_seminar9\Work_task_HW\bin\Debug\net6.0\Work_task_HW.pdb
+E:\HW_seminar9\Work_task_HW\obj\Debug\net6.0\Work_task_HW.dll
+E:\HW_seminar9\Work_task_HW\obj\Debug\net6.0\refint\Work_task_HW.dll
+E:\HW_seminar9\Work_task_HW\obj\Debug\net6.0\Work_task_HW.pdb
+E:\HW_seminar9\Work_task_HW\obj\Debug\net6.0\Work_task_HW.genruntimeconfig.cache
+E:\HW_seminar9\Work_task_HW\obj\Debug\net6.0\ref\Work_task_HW.dll
